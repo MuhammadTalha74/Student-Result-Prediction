@@ -1,4 +1,4 @@
-🎓 Student Result Prediction System
+# 🎓 Student Result Prediction System
 
 A machine learning web application that predicts whether a student will Pass or Fail based on key academic and personal factors. Built with Python, Scikit-learn, and Flask.
 ---
